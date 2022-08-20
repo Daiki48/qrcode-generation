@@ -1,5 +1,5 @@
 export const isUrl = (input: unknown): boolean => {
-	if (typeof input !== "string") {
+	if (typeof input !== 'string') {
 		return false;
 	}
 

@@ -1,1 +1,1 @@
-export * from "./isUrl.ts";
+export * from './isUrl.ts';
