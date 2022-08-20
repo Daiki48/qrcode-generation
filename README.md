@@ -11,7 +11,9 @@ $ deno --version
 ```
 
 > deno 1.24.3 (release, aarch64-apple-darwin)
+
 > v8 10.4.132.20
+
 > typescript 4.7.4
 
 ## Usage
