@@ -22,6 +22,8 @@ Enter command
 $ deno task dev
 ```
 
+### Example
+
 Enter the following in your browser
 
 ```
