@@ -18,8 +18,7 @@ async function handler(req: Request): Promise<Response> {
 	return new Response(
 		`
 		<html>
-		  <head>
-			</head>
+		  <head></head>
 			<body>
 			  <h1>QR Code Generator</h1>
 				<img src="${qrCode}">
